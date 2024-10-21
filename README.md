@@ -21,6 +21,9 @@ Make sure that you write your name exactly as it is written on your sheet! The d
 - Block off with BUSY any times when you're unable to meet with people (Alice doesn't want to meet after 7:30 on Friday). Because of the dark background that just looks like a void.
 - Not case sensitive, so capitals don't matter
 - DO NOT USE MULTI-CELL FILL! THE AUTOMATED SCRIPT CAN'T HANDLE IT! COPY PASTE THE NAME INTO EACH CELL IF YOU WANT TO SCHEDULE AN EXTRA-LONG MEETING "						
-						
+
+
+# Example:
+To see the automation in action, check out this Google Sheet: https://docs.google.com/spreadsheets/d/130oUndl2Wx97-8iah7Lhb91glNlkcNrsdThWfKVxGzA/edit?usp=sharing
 						
 						
